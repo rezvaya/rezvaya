@@ -1,4 +1,13 @@
 ### Hi there 👋
+My name is Katya, welcome here 🔭
+
+- 🔭 I’m currently working on educational bot for all learning specialists. 
+- 🌱 I’m currently learning python, ML and educational technology for young and adult.
+
+
+- ⚡ Fun fact: 
+I'm starting beta-test telegram-bot,
+If you want to test, text me, heh)
 
 <!--
 **rezvaya/rezvaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
